@@ -6,19 +6,7 @@ Links to useful places:
 1. [Research Interests](###research-interests)
 1. [Contact details](###contact-me)
 1. [Personal Bibliography](bibliography.md)
-1. Curriculum Vitae
-
-
-## Things Jonah wishes to add:
-
-2.  Brief Research interests summary
-2.  Contact details
-2.  Bibliography split into:
-     - First author papers
-     - Second author papers
-     - Other stuff (talks conferences etc)
-2. CV
-
+1. [Curriculum Vitae](CV.md)
 
 ### Research Interests
 Some kinda LSB paragraphy stuff
