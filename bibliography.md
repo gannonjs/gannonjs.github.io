@@ -1,5 +1,6 @@
 ---
-title: "Bibliography"
+layout: default
+title: Bibliography
 ---
 
 ## First Author Papers
