@@ -4,7 +4,7 @@
 
 Links to useful places:
 1. [Research Interests](###research-interests)
-1. [Contact details] (###contact-me)
+1. [Contact details](###contact-me)
 1. Personal Bibliography
 1. Curriculum Vitae
 
