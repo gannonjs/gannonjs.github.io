@@ -13,4 +13,5 @@ Some kinda LSB paragraphy stuff
 
 ### Contact Me
 academic email: [jgannon@swin.edu.au](mailto:jgannon@swin.edu.au)\
+
 alternate email: [jonah.gannon@gmail.com](mailto:jonah.gannon@gmail.com)
