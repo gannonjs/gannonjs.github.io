@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Welcome to Jonah Gannon's Homepage!
 description: Currently being built - come back later for something more interesting
+layout: sidebar
