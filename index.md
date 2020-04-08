@@ -10,9 +10,9 @@ Links to useful places:
 
 ### Research Interests
 
-.[Ultra-Diffuse Galaxies](UDG.md)
+[Ultra-Diffuse Galaxies](UDG.md)
 
-.[Low Surface Brightness Imaging](LSB.md)
+[Low Surface Brightness Imaging](LSB.md)
 
 ### Contact Me
 academic email: [jgannon@swin.edu.au](mailto:jgannon@swin.edu.au)
