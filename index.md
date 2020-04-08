@@ -9,7 +9,10 @@ Links to useful places:
 1. [Curriculum Vitae](cv.md)
 
 ### Research Interests
-Some kinda LSB paragraphy stuff
+
+Ultra-Diffuse Galaxies
+
+Low Surface Brightness Imaging
 
 ### Contact Me
 academic email: [jgannon@swin.edu.au](mailto:jgannon@swin.edu.au)
