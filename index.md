@@ -15,8 +15,8 @@
 [Curriculum Vitae](cv.md)
 
 ### Contact Me
-academic email: [jgannon@swin.edu.au](mailto:jgannon@swin.edu.au)
+Academic Email: [jgannon@swin.edu.au](mailto:jgannon@swin.edu.au)
 
-alternate email: [jonah.gannon@gmail.com](mailto:jonah.gannon@gmail.com)
+Alternate Email: [jonah.gannon@gmail.com](mailto:jonah.gannon@gmail.com)
 
 LinkedIn: [Jonah Gannon](https://www.linkedin.com/in/jonahgannon/)
