@@ -5,12 +5,12 @@ title: Bibliography
 
 ## First Author Papers
 
-soon have the submitted mnras paper
+Coming Soon
 
 ## Co-author Papers
 
-The UDG discovery paper
+Forbes, D. A., **Gannon, J.**, Couch, W. J., et al. 2019, A&A, 626, A66
 
 ## Other References of Interest
 
-talks/conferences/...
+Coming Soon
