@@ -1,6 +1,6 @@
 # Ground Zero
 
-**This page is currently being built - please check back later for something more interesting.**
+**This page is a work in progress**
 
 Links to useful places:
 1. [Research Interests](###research-interests)
@@ -10,9 +10,9 @@ Links to useful places:
 
 ### Research Interests
 
-Ultra-Diffuse Galaxies
+.[Ultra-Diffuse Galaxies](UDG.md)
 
-Low Surface Brightness Imaging
+.[Low Surface Brightness Imaging](LSB.md)
 
 ### Contact Me
 academic email: [jgannon@swin.edu.au](mailto:jgannon@swin.edu.au)
