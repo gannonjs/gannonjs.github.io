@@ -1,3 +1,12 @@
+### Aim is to create personal website for JONAH GANNON
+### Using free website template from HTML 5 UP
+### See below for template README:
+
+
+
+
+
+########################################################################################################################
 Phantom by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -28,3 +37,5 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+########################################################################################################################
